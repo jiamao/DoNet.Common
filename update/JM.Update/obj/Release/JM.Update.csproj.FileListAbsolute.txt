@@ -1,0 +1,6 @@
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\bin\Release\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\bin\Release\JM.Update.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Release\JM.Update.frmUpdate.resources
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Release\JM.Update.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Release\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Release\JM.Update.pdb

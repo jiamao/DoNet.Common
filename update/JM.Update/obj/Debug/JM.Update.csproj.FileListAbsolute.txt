@@ -1,0 +1,13 @@
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\bin\Debug\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\bin\Debug\JM.Update.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\obj\Debug\JM.Update.csprojResolveAssemblyReference.cache
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\obj\Debug\JM.Update.frmUpdate.resources
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\obj\Debug\JM.Update.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\obj\Debug\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\JM.Update\obj\Debug\JM.Update.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\bin\Debug\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\bin\Debug\JM.Update.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Debug\JM.Update.frmUpdate.resources
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Debug\JM.Update.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Debug\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.Update\obj\Debug\JM.Update.pdb

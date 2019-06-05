@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\website\mono_webservice" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/System.Data.SQLite.dll" publishTime="11/10/2011 10:52:33" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="11/10/2011 10:52:26" />
+    <file relUrl="bin/DoNet.Common.Cache.pdb" publishTime="05/09/2012 19:48:33" />
+    <file relUrl="bin/Microsoft.WindowsFabric.Common.dll" publishTime="11/10/2011 10:43:19" />
+    <file relUrl="bin/JM.Common.Examples.web.pdb" publishTime="05/10/2012 23:49:28" />
+    <file relUrl="bin/DoNet.Common.Web.dll" publishTime="05/09/2012 19:48:36" />
+    <file relUrl="paging.aspx" publishTime="04/14/2012 13:48:44" />
+    <file relUrl="Serialization.aspx" publishTime="04/14/2012 13:48:43" />
+    <file relUrl="rss.aspx" publishTime="04/14/2012 13:48:43" />
+    <file relUrl="test.asmx" publishTime="04/18/2012 10:34:27" />
+    <file relUrl="bin/Microsoft.ApplicationServer.Caching.Client.dll" publishTime="11/10/2011 10:43:19" />
+    <file relUrl="test.ashx" publishTime="04/18/2012 10:29:16" />
+    <file relUrl="bin/DoNet.Common.pdb" publishTime="05/09/2012 19:48:30" />
+    <file relUrl="route.html" publishTime="05/04/2012 16:59:53" />
+    <file relUrl="test2.svc" publishTime="05/10/2012 23:22:27" />
+    <file relUrl="bin/DoNet.Common.Cache.dll" publishTime="05/09/2012 19:48:33" />
+    <file relUrl="net.aspx" publishTime="04/14/2012 13:48:44" />
+    <file relUrl="bin/Microsoft.WindowsFabric.Data.Common.dll" publishTime="11/10/2011 10:43:19" />
+    <file relUrl="bin/Microsoft.ApplicationServer.Caching.Core.dll" publishTime="11/10/2011 10:43:19" />
+    <file relUrl="bin/DoNet.Common.Web.pdb" publishTime="05/09/2012 19:48:36" />
+    <file relUrl="route.aspx" publishTime="04/14/2012 13:48:43" />
+    <file relUrl="route.config" publishTime="08/06/2011 22:13:44" />
+    <file relUrl="monoerror.htm" publishTime="05/10/2012 23:30:10" />
+    <file relUrl="bin/JM.Common.Examples.web.dll" publishTime="05/10/2012 23:49:28" />
+    <file relUrl="bin/DoNet.Common.dll" publishTime="05/09/2012 19:48:31" />
+    <file relUrl="bin/DoNet.Common.DbUtility.pdb" publishTime="05/09/2012 19:48:37" />
+    <file relUrl="testserver.aspx" publishTime="05/09/2012 19:53:53" />
+    <file relUrl="IOMG.aspx" publishTime="04/14/2012 13:48:44" />
+    <file relUrl="Web.config" publishTime="05/10/2012 23:49:23" />
+    <file relUrl="index.aspx" publishTime="04/14/2012 14:02:50" />
+    <file relUrl="bin/DoNet.Common.DbUtility.dll" publishTime="05/09/2012 19:48:37" />
+    <file relUrl="xml.aspx" publishTime="04/14/2012 13:48:42" />
+    <file relUrl="js.html" publishTime="04/16/2012 16:19:50" />
+    <file relUrl="cookies.aspx" publishTime="04/14/2012 13:48:45" />
+    <file relUrl="db.aspx" publishTime="04/14/2012 13:48:45" />
+  </publishProfile>
+</publishData>

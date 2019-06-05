@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\website\dbproxy" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="04/27/2012 17:15:58" />
+    <file relUrl="bin/DoNet.Common.DbUtilityProxy.pdb" publishTime="07/04/2012 15:20:08" />
+    <file relUrl="bin/DoNet.Common.Web.pdb" publishTime="07/04/2012 15:20:07" />
+    <file relUrl="bin/DoNet.Common.Web.dll" publishTime="07/04/2012 15:20:07" />
+    <file relUrl="bin/DoNet.Common.dll" publishTime="07/04/2012 15:20:06" />
+    <file relUrl="bin/DoNet.Common.DbUtilityProxy.dll" publishTime="07/04/2012 15:20:08" />
+    <file relUrl="DBTester.aspx" publishTime="06/18/2012 17:56:41" />
+    <file relUrl="DBProxy.svc" publishTime="03/23/2012 16:22:30" />
+    <file relUrl="bin/DoNet.Common.DbUtility.dll" publishTime="07/04/2012 15:20:07" />
+    <file relUrl="bin/DoNet.Common.pdb" publishTime="07/04/2012 15:20:06" />
+    <file relUrl="Global.asax" publishTime="04/11/2012 13:34:09" />
+    <file relUrl="bin/ICSharpCode.SharpZipLib.dll" publishTime="09/16/2010 19:06:30" />
+    <file relUrl="bin/DoNet.Common.DbUtility.pdb" publishTime="07/04/2012 15:20:07" />
+  </publishProfile>
+</publishData>

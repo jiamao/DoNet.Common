@@ -1,0 +1,12 @@
+﻿[18:07:42]route.rewrite:
+[18:07:42]/ct/1.html
+[18:07:42]->~/route.aspx?id=1
+[18:08:19]route.rewrite:
+[18:08:19]/c2t/1.html
+[18:08:19]->~/route.aspx?id=1
+[18:10:28]route.rewrite:
+[18:10:28]/ct/1.html
+[18:10:28]->~/route.aspx?id=1
+[18:11:06]route.rewrite:
+[18:11:06]/c2t/1.html
+[18:11:06]->~/route.aspx?id=1

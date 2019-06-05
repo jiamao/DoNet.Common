@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LocalConfig>
+  <!--远程代理对象-->
+  <RemoteObject>
+
+    <MenuServer>
+      <Protocol value="TCP" description="代理对象采用的协议" />
+      <NetAddress value="10.20.104.145" description="代理服务器的IP地址" />
+      <Port value="8081" description="代理服务器采用的端口" />
+      <Uri value="MenuServer" description="代理对象的标识路径" />
+    </MenuServer>
+
+    <UserServer>
+      <Protocol value="TCP" description="代理对象采用的协议" />
+      <NetAddress value="10.20.104.145" description="代理服务器的IP地址" />
+      <Port value="8081" description="代理服务器采用的端口" />
+      <Uri value="UserServer" description="代理对象的标识路径" />
+    </UserServer>
+
+  </RemoteObject>
+
+  <!--本地对象-->
+  <LocalObject>
+
+    <ObjectName>
+      <Path value="" />
+      <ClassName value="" />
+    </ObjectName>
+  </LocalObject>
+</LocalConfig>
+

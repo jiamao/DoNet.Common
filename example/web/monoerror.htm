@@ -1,0 +1,156 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style type="text/css">
+
+h2 { font-family:"Verdana","DejaVu Sans",sans-serif;font-weight:normal;font-size:14pt;color:maroon }
+p {font-family:"Verdana","DejaVu Sans",sans-serif;font-weight:normal;color:black;margin-top: -5px}
+code {font-family:"Lucida Console","DejaVu Sans Mono",monospace;font-size: 0.9em,white-space: pre-line}
+.expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:pointer; }
+table.sampleCode {width: 100%; background-color: #ffffcc; }
+pre {font-family:"Lucida Console","DejaVu Sans Mono",monospace;font-size: 0.9em,white-space: pre-line}
+    </style>
+</head>
+<body>
+
+    <h2>
+        <em>Compilation Error</em></h2>
+    <p>
+        <strong>Description: </strong>Error compiling a resource required to service 
+        this request. Review your source file and modify it to fix this error.</p>
+    <p>
+        <strong>Compiler Error Message: </strong><code>: at 
+        System.Reflection.AssemblyName..ctor (System.String assemblyName) [0x00045] in 
+        /data/tmp/mono-2.10/mcs/class/corlib/System.Reflection/AssemblyName.cs:93 </code>
+    </p>
+    ~/Global.asax<p>
+    </p>
+    <br />
+    <div class="expandable" onclick="ToggleVisible ('compilerOutput')">
+        Show Detailed Compiler Output:</div>
+    <br />
+    <div id="compilerOutput" style="display:none;">
+        <table class="sampleCode" summary="Details">
+            <tr>
+                <td>
+                    <code>
+                    <pre>dmcs /target:library /lib:&quot;/usr/local/lib/xsp/test/test2/Bin&quot; /debug- /optimize+ /warn:4 /out:&quot;/tmp/dev-temp-aspnet-0/7f2cb7bb/App_global.asax_37aab4b.dll&quot; /r:&quot;/usr/lib/mono/4.0/mscorlib.dll&quot; /r:&quot;/usr/lib/mono/gac/Microsoft.CSharp/4.0.0.0__b03f5f7f11d50a3a/Microsoft.CSharp.dll&quot; /r:&quot;/usr/lib/mono/gac/System/4.0.0.0__b77a5c561934e089/System.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Configuration/4.0.0.0__b03f5f7f11d50a3a/System.Configuration.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Web/4.0.0.0__b03f5f7f11d50a3a/System.Web.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Data/4.0.0.0__b77a5c561934e089/System.Data.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Web.Services/4.0.0.0__b03f5f7f11d50a3a/System.Web.Services.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Xml/4.0.0.0__b77a5c561934e089/System.Xml.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Drawing/4.0.0.0__b03f5f7f11d50a3a/System.Drawing.dll&quot; /r:&quot;/usr/lib/mono/gac/System.EnterpriseServices/4.0.0.0__b03f5f7f11d50a3a/System.EnterpriseServices.dll&quot; /r:&quot;/usr/lib/mono/gac/System.IdentityModel/4.0.0.0__b77a5c561934e089/System.IdentityModel.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Runtime.Serialization/4.0.0.0__b77a5c561934e089/System.Runtime.Serialization.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Xaml/4.0.0.0__b77a5c561934e089/System.Xaml.dll&quot; /r:&quot;/usr/lib/mono/gac/System.ServiceModel/4.0.0.0__b77a5c561934e089/System.ServiceModel.dll&quot; /r:&quot;/usr/lib/mono/gac/System.ServiceModel.Web/4.0.0.0__31bf3856ad364e35/System.ServiceModel.Web.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Core/4.0.0.0__b77a5c561934e089/System.Core.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Web.Extensions/4.0.0.0__31bf3856ad364e35/System.Web.Extensions.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Data.DataSetExtensions/4.0.0.0__b77a5c561934e089/System.Data.DataSetExtensions.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Xml.Linq/4.0.0.0__b77a5c561934e089/System.Xml.Linq.dll&quot; /r:&quot;/usr/lib/mono/gac/System.ComponentModel.DataAnnotations/4.0.0.0__31bf3856ad364e35/System.ComponentModel.DataAnnotations.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Web.DynamicData/4.0.0.0__31bf3856ad364e35/System.Web.DynamicData.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Data.Linq/4.0.0.0__b77a5c561934e089/System.Data.Linq.dll&quot; /r:&quot;/usr/lib/mono/gac/System.Web.ApplicationServices/4.0.0.0__31bf3856ad364e35/System.Web.ApplicationServices.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/f1a9f5be/563b6893_a7929d2d_00000001/Commons.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/f28262c3/5510ffee_a7929d2d_00000001/DoNet.Common.Web.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/c71894fd/608a09d0_a7929d2d_00000001/DoNet.Common.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/ee74dc13/49e6413e_a7929d2d_00000001/ICSharpCode.SharpZipLib.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/d913258b/7e81b8a6_a7929d2d_00000001/Ionic.Zip.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/76da312f/d148ac02_a7929d2d_00000001/Memcached.ClientLibrary.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/04e2c4cc/a37059e1_a7929d2d_00000001/MySql.Data.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/b9782b12/1eeab63f_a7929d2d_00000001/NPOI.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/a19d874f/060f1a62_a7929d2d_00000001/Newtonsoft.Json.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/ec8172bd/4b13ef90_a7929d2d_00000001/OAPWebService.Authentication.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/a3ebbeec/047923c1_a7929d2d_00000001/OAPWebService.BEntity.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/24cc726a/835eef47_a7929d2d_00000001/OAPWebService.ConfMethod.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/7a810148/dd139c65_a7929d2d_00000001/OAPWebService.ConfigMethod.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/30b31b24/97218609_a7929d2d_00000001/OAPWebService.Core.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/28382e73/8faab35e_a7929d2d_00000001/OAPWebService.DataAccess.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/8606fcda/219461f7_a7929d2d_00000001/OAPWebService.DataSetConnector.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/408185a8/e7131885_a7929d2d_00000001/OAPWebService.Entity.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/0a871842/ad15856f_a7929d2d_00000001/OAPWebService.FriendInterface.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/db62e13a/7cf07c17_a7929d2d_00000001/OAPWebService.ILogic.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/b890f8d5/1f0265f8_a7929d2d_00000001/OAPWebService.Logger.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/dfd93b25/784ba608_a7929d2d_00000001/OAPWebService.Logic.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/98fa8bb2/3f68169f_a7929d2d_00000001/OAPWebService.MemCache.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/6dcec3a6/ca5c5e8b_a7929d2d_00000001/OAPWebService.Method.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/780e7207/df9cef2a_a7929d2d_00000001/OAPWebService.Util.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/fd7fea95/5aed77b8_a7929d2d_00000001/OAPWebService.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/78676d30/dff5f01d_a7929d2d_00000001/Silverlight.DataSetConnector.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/160f5074/b19dcd59_a7929d2d_00000001/easonJson.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/3d3ed3c1/9aac4eec_a7929d2d_00000001/gudusoft.gsqlparser.dll&quot; /r:&quot;/tmp/dev-temp-aspnet-0/a490bd4c/assembly/shadow/eb593da3/4ccba08e_a7929d2d_00000001/log4net.dll&quot;  /nowarn:0169  -- &quot;/tmp/dev-temp-aspnet-0/7f2cb7bb/App_global.asax_37aab4b_0.cs&quot; 
+
+
+Unhandled Exception: System.IO.FileLoadException: The assembly name is invalid.
+  at System.Reflection.AssemblyName..ctor (System.String assemblyName) [0x00045] in /data/tmp/mono-2.10/mcs/class/corlib/System.Reflection/AssemblyName.cs:93 
+  at Mono.CSharp.ImportedAssemblyDefinition.ReadAttributes () [0x000c5] in /data/tmp/mono-2.10/mcs/mcs/import.cs:1522 
+  at Mono.CSharp.MetadataImporter.GetAssemblyDefinition (System.Reflection.Assembly assembly) [0x00028] in /data/tmp/mono-2.10/mcs/mcs/import.cs:821 
+  at Mono.CSharp.ReflectionImporter.ImportAssembly (System.Reflection.Assembly assembly, Mono.CSharp.RootNamespace targetNamespace) [0x00000] in /data/tmp/mono-2.10/mcs/mcs/reflection.cs:88 
+  at Mono.CSharp.DynamicLoader.LoadReferences (Mono.CSharp.ModuleContainer module) [0x0003e] in /data/tmp/mono-2.10/mcs/mcs/reflection.cs:587 
+  at Mono.CSharp.Driver.Compile () [0x00159] in /data/tmp/mono-2.10/mcs/mcs/driver.cs:1535 
+  at Mono.CSharp.Driver.Main (System.String[] args) [0x0003d] in /data/tmp/mono-2.10/mcs/mcs/driver.cs:243 
+</pre>
+                    </code>
+                </td>
+            </tr>
+        </table>
+    </div>
+<SCRIPT type="text/javascript">
+function ToggleVisible (id)
+{
+	var e = document.getElementById (id);
+	if (e.style.display == 'none')
+	{
+		e.style.display = '';
+	} else {
+		e.style.display = 'none';
+	}
+}
+</SCRIPT>
+    <hr style="color: silver;" />
+    <strong>Version information: </strong>Mono Runtime Version: <tt>2.10 (tarball 
+    Fri May 4 11:10:52 CST 2012)</tt>; ASP.NET Version: <tt>4.0.30319.1</tt><!--
+[System.Web.HttpException]: Single file build failed.
+  at System.Web.Compilation.BuildManager.BuildInner (System.Web.VirtualPath vp, Boolean debug) [0x0013e] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:474 
+  at System.Web.Compilation.BuildManager.Build (System.Web.VirtualPath vp) [0x00056] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:414 
+  at System.Web.Compilation.BuildManager.GetCompiledType (System.Web.VirtualPath virtualPath) [0x00040] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:1022 
+  at System.Web.Compilation.BuildManager.GetCompiledType (System.String virtualPath) [0x00000] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:1005 
+  at System.Web.HttpApplicationFactory.InitType (System.Web.HttpContext context) [0x0016b] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web/HttpApplicationFactory.cs:460 
+[System.Web.Compilation.CompilationException]: :   at System.Reflection.AssemblyName..ctor (System.String assemblyName) [0x00045] in /data/tmp/mono-2.10/mcs/class/corlib/System.Reflection/AssemblyName.cs:93 
+  at System.Web.Compilation.AssemblyBuilder.BuildAssembly (System.Web.VirtualPath virtualPath, System.CodeDom.Compiler.CompilerParameters options) [0x0030f] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/AssemblyBuilder.cs:845 
+  at System.Web.Compilation.AssemblyBuilder.BuildAssembly (System.Web.VirtualPath virtualPath) [0x00000] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/AssemblyBuilder.cs:731 
+  at System.Web.Compilation.BuildManager.GenerateAssembly (System.Web.Compilation.AssemblyBuilder abuilder, System.Web.Compilation.BuildProviderGroup group, System.Web.VirtualPath vp, Boolean debug) [0x00264] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:846 
+  at System.Web.Compilation.BuildManager.BuildInner (System.Web.VirtualPath vp, Boolean debug) [0x0011c] in /data/tmp/mono-2.10/mcs/class/System.Web/System.Web.Compilation/BuildManager.cs:469 
+-->
+
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        System.Web.Compilation.CompilationException CS1703: An assembly with the same 
+        identity `mscorlib, Version=4.0.0.0, Culture=neutral, 
+        PublicKeyToken=b77a5c561934e089&#39; has already been imported. Consider removing 
+        one of the references Description: Error compiling a resource required to 
+        service this request. Review your source file and modify it to fix this error. 
+        Details: CS1703: An assembly with the same identity `mscorlib, Version=4.0.0.0, 
+        Culture=neutral, PublicKeyToken=b77a5c561934e089&#39; has already been imported. 
+        Consider removing one of the references Error origin: Compiler Error source 
+        file: ~/DefaultWsdlHelpGenerator.aspx Exception stack trace: at 
+        System.Web.Compilation.AssemblyBuilder.BuildAssembly (System.Web.VirtualPath 
+        virtualPath, System.CodeDom.Compiler.CompilerParameters options) [0x00000] in <filename unknown>
+        :0 at System.Web.Compilation.AssemblyBuilder.BuildAssembly 
+        (System.Web.VirtualPath virtualPath) [0x00000] in <filename unknown>:0 at 
+        System.Web.Compilation.BuildManager.GenerateAssembly 
+        (System.Web.Compilation.AssemblyBuilder abuilder, 
+        System.Web.Compilation.BuildProviderGroup group, System.Web.VirtualPath vp, 
+        Boolean debug) [0x00000] in <filename unknown>:0 at 
+        System.Web.Compilation.BuildManager.BuildInner (System.Web.VirtualPath vp, 
+        Boolean debug) [0x00000] in <filename unknown>:0 Version Information: 2.11.1 
+        (tarball Wed May 9 23:15:56 CST 2012); ASP.NET Version: 4.0.30319.17020</p>
+    <p>
+        &nbsp;</p>
+    <p>
+        System.Reflection.ReflectionTypeLoadException The classes in the module cannot 
+        be loaded. Description: HTTP 500.Error processing request. Details: Non-web 
+        exception. Exception origin (name of application or object): mscorlib. Exception 
+        stack trace: at (wrapper managed-to-native) System.Reflection.Assembly:GetTypes 
+        (System.Reflection.Assembly,bool) at System.Reflection.Assembly.GetTypes () 
+        [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.Configuration.ConfigUtil.GetTypeFromConfigString 
+        (System.String name, NamedConfigCategory category) [0x00000] in <filename unknown>
+        :0 at System.ServiceModel.ChannelFactory.ApplyConfiguration (System.String 
+        endpointConfig) [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.ChannelFactory.InitializeEndpoint (System.String 
+        endpointConfigurationName, System.ServiceModel.EndpointAddress remoteAddress) 
+        [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.ChannelFactory`1[JM.Common.Examples.web.monoserver.Itest2]..ctor 
+        (System.String endpointConfigurationName, System.ServiceModel.EndpointAddress 
+        remoteAddress) [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.ClientBase`1[JM.Common.Examples.web.monoserver.Itest2].Initialize 
+        (System.ServiceModel.InstanceContext instance, System.String 
+        endpointConfigurationName, System.ServiceModel.EndpointAddress remoteAddress) 
+        [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.ClientBase`1[JM.Common.Examples.web.monoserver.Itest2]..ctor 
+        (System.ServiceModel.InstanceContext instance, System.String 
+        endpointConfigurationName) [0x00000] in <filename unknown>:0 at 
+        System.ServiceModel.ClientBase`1[JM.Common.Examples.web.monoserver.Itest2]..ctor 
+        (System.ServiceModel.InstanceContext instance) [0x00000] in <filename unknown>:0 
+        at 
+        System.ServiceModel.ClientBase`1[JM.Common.Examples.web.monoserver.Itest2]..ctor 
+        () [0x00000] in <filename unknown>:0 at 
+        JM.Common.Examples.web.monoserver.Itest2Client..ctor () [0x00000] in <filename unknown>
+        :0 at JM.Common.Examples.web.testserver.Page_Load (System.Object sender, 
+        System.EventArgs e) [0x00000] in <filename unknown>:0 at 
+        System.Web.UI.Control.OnLoad (System.EventArgs e) [0x00000] in <filename unknown>
+        :0 at System.Web.UI.Control.LoadRecursive () [0x00000] in <filename unknown>:0 
+        at System.Web.UI.Page.ProcessLoad () [0x00000] in <filename unknown>:0 at 
+        System.Web.UI.Page.ProcessPostData () [0x00000] in <filename unknown>:0 at 
+        System.Web.UI.Page.InternalProcessRequest () [0x00000] in <filename unknown>:0 
+        at System.Web.UI.Page.ProcessRequest (System.Web.HttpContext context) [0x00000] 
+        in <filename unknown>:0
+    </p>
+
+</body>
+</html>

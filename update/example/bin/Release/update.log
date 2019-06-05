@@ -1,0 +1,64 @@
+获取更新信息中...
+<?xml version="1.0"?>
+<UpdateConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Items>
+    <UpdateItem>
+      <FileName>\example.exe</FileName>
+      <Url>54493e229d5e4e9d9f793a6458082132.zip</Url>
+      <FileMd5>3FFD83D5C0C96D3DEFDB994F5EEEC7DF</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\example.pdb</FileName>
+      <Url>89dc3ebafc9b46d28dd87f4077fb640e.zip</Url>
+      <FileMd5>0CB6F9525A97CC3A1123245CAD0512E2</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\example.vshost.exe</FileName>
+      <Url>047faa92587a4d6a88158f9bb515e5c6.zip</Url>
+      <FileMd5>378DD10936AAFF40EB34D94DC29F2366</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\example.vshost.exe.manifest</FileName>
+      <Url>f7cef17c65b2498da21e76fdbd322d51.zip</Url>
+      <FileMd5>A19A2658BA69030C6AC9D11FD7D7E3C1</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\JM.Update.dll</FileName>
+      <Url>4630f305346544cc8972b9c74c7a7b95.zip</Url>
+      <FileMd5>F381B35216183B1C1107DE5710F02DE6</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\JM.Update.pdb</FileName>
+      <Url>f3a4f15d4b534b438cbb02b4a4f3c2ea.zip</Url>
+      <FileMd5>02941ECD81FDC99A4F9065ED7D50EB7C</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\JM.UpdateClient.exe</FileName>
+      <Url>ef8652b17eed4f54870f5f4e0cdaf9d0.zip</Url>
+      <FileMd5>DCE9B50AB39DB0A4364B5B0678BA2C25</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\JM.UpdateClient.exe.config</FileName>
+      <Url>a13d8a9c8c674316aef8be4b28abbcc3.zip</Url>
+      <FileMd5>642888967805C7B43769EA122A35C8FE</FileMd5>
+    </UpdateItem>
+    <UpdateItem>
+      <FileName>\JM.UpdateClient.pdb</FileName>
+      <Url>7a38e57d58864a9a90c9cb39fa66327e.zip</Url>
+      <FileMd5>9DA201318D7F4780D900808DFFCD6073</FileMd5>
+    </UpdateItem>
+  </Items>
+</UpdateConfig>
+获取更新信息完成，开始对比更新...
+更新文件:\example.exe
+更新文件:\example.pdb
+文件:\example.vshost.exe 无需更新
+文件:\example.vshost.exe.manifest 无需更新
+更新文件:\JM.Update.dll
+更新文件:\JM.Update.pdb
+更新文件:\JM.UpdateClient.exe
+文件“D:\微云网盘\273389528\项目\DoNet.Common\update\example\bin\Release\JM.UpdateClient.exe”正由另一进程使用，因此该进程无法访问此文件。
+更新文件：\JM.UpdateClient.exe 失败
+更新文件:\JM.UpdateClient.exe.config
+更新文件:\JM.UpdateClient.pdb
+complete

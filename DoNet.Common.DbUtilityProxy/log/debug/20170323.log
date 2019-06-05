@@ -1,0 +1,77 @@
+﻿[09:35:23]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"GetDataSetWithParam","ParaNames":[["?exp_par_0"]],"ParaValues":[["last_log_date"]],"Sqls":["select `key`,`value` from tb_config where (`key` =?exp_par_0)"]}
+[09:35:23]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:35:26]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteScalar","ParaNames":null,"ParaValues":null,"Sqls":["show tables like 'tb_log20170322'"]}
+[09:35:26]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:35:53]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"GetDataSetWithParam","ParaNames":[["?exp_par_0"]],"ParaValues":[["last_log_date"]],"Sqls":["select `key`,`value` from tb_config where (`key` =?exp_par_0)"]}
+[09:35:53]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:35:54]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteScalar","ParaNames":null,"ParaValues":null,"Sqls":["show tables like 'tb_log20170322'"]}
+[09:35:54]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:36:41]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"GetDataSetWithParam","ParaNames":[["?exp_par_0"]],"ParaValues":[["last_log_date"]],"Sqls":["select `key`,`value` from tb_config where (`key` =?exp_par_0)"]}
+[09:37:01]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:37:57]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteScalar","ParaNames":null,"ParaValues":null,"Sqls":["show tables like 'tb_log20170322'"]}
+[09:38:08]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:40:19]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"GetDataSetWithParam","ParaNames":[["?exp_par_0"]],"ParaValues":[["last_log_date"]],"Sqls":["select `key`,`value` from tb_config where (`key` =?exp_par_0)"]}
+[09:40:19]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:40:29]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteScalar","ParaNames":null,"ParaValues":null,"Sqls":["show tables like 'tb_log20170322'"]}
+[09:40:29]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:41:05]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"GetDataSetWithParam","ParaNames":[["?exp_par_0"]],"ParaValues":[["last_log_date"]],"Sqls":["select `key`,`value` from tb_config where (`key` =?exp_par_0)"]}
+[09:41:05]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:41:05]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteScalar","ParaNames":null,"ParaValues":null,"Sqls":["show tables like 'tb_log20170322'"]}
+[09:41:05]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>
+[09:41:05]{"DB":{"ConnectionString":"server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog","DBType":1,"IsProxy":true,"ProxyUrl":null},"MethodName":"ExecuteNonQuery","ParaNames":null,"ParaValues":null,"Sqls":["CREATE TABLE `tb_log20170322` (\u000d\u000a  `msgno` varchar(50) DEFAULT NULL,\u000d\u000a  `uid` varchar(50) DEFAULT NULL,\u000d\u000a  `module` varchar(32) DEFAULT NULL,\u000d\u000a  `file` varchar(512) DEFAULT NULL,\u000d\u000a  `line` varchar(16) DEFAULT NULL,\u000d\u000a  `datetime` datetime DEFAULT NULL,\u000d\u000a  `clientip` varchar(50) DEFAULT NULL,\u000d\u000a  `serverip` varchar(50) DEFAULT NULL,\u000d\u000a  `server` varchar(256) DEFAULT NULL,\u000d\u000a  `service` varchar(256) DEFAULT NULL,\u000d\u000a  `qq` varchar(50) DEFAULT NULL,\u000d\u000a  `returncode` varchar(32) DEFAULT NULL,\u000d\u000a  `return_msg` varchar(256) DEFAULT NULL,\u000d\u000a  `ua` varchar(512) DEFAULT NULL,\u000d\u000a  `os` varchar(16) DEFAULT NULL,\u000d\u000a  `url` varchar(512) DEFAULT NULL,\u000d\u000a  `request` varchar(1024) DEFAULT NULL,\u000d\u000a  `costtime` varchar(16) DEFAULT NULL\u000d\u000a) ENGINE=InnoDB DEFAULT CHARSET=utf8;"]}
+[09:41:05]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=127.0.0.1;uid=root;pwd=df123456;charset=utf8;database=lct_weblog</ConnectionString>
+  <IsProxy>true</IsProxy>
+</DBInfo>

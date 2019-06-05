@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2012-07-04T15:20:15.0000000+08:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+    <_PublishTargetUrl>E:\website\dbproxy</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DoNet.Common.Cache.dll">
+      <publishTime>03/23/2017 09:39:03</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.DbUtility.dll">
+      <publishTime>03/23/2017 09:39:04</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.DbUtility.pdb">
+      <publishTime>07/04/2012 15:20:07</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.DbUtilityProxy.dll">
+      <publishTime>03/23/2017 09:39:05</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.DbUtilityProxy.pdb">
+      <publishTime>07/04/2012 15:20:08</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.dll">
+      <publishTime>03/23/2017 09:39:01</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.pdb">
+      <publishTime>07/04/2012 15:20:06</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.Web.dll">
+      <publishTime>03/23/2017 09:39:04</publishTime>
+    </File>
+    <File Include="bin/DoNet.Common.Web.pdb">
+      <publishTime>07/04/2012 15:20:07</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>09/16/2010 19:06:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationServer.Caching.Client.dll">
+      <publishTime>11/10/2011 10:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationServer.Caching.Core.dll">
+      <publishTime>11/10/2011 10:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsFabric.Common.dll">
+      <publishTime>11/10/2011 10:43:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsFabric.Data.Common.dll">
+      <publishTime>11/10/2011 10:43:19</publishTime>
+    </File>
+    <File Include="bin/Mono.Security.dll">
+      <publishTime>07/07/2007 00:09:48</publishTime>
+    </File>
+    <File Include="bin/Npgsql.dll">
+      <publishTime>09/02/2012 20:21:12</publishTime>
+    </File>
+    <File Include="bin/System.Json.dll">
+      <publishTime>03/10/2011 00:08:16</publishTime>
+    </File>
+    <File Include="DBProxy.ashx">
+      <publishTime>09/14/2012 11:43:54</publishTime>
+    </File>
+    <File Include="DBProxy.aspx">
+      <publishTime>03/22/2017 19:43:45</publishTime>
+    </File>
+    <File Include="DBProxy.svc">
+      <publishTime>03/23/2012 16:22:30</publishTime>
+    </File>
+    <File Include="DBTester.aspx">
+      <publishTime>12/26/2012 16:40:25</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/11/2012 13:34:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/19/2015 21:28:17</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

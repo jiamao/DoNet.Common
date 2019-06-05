@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RemoteObject>
+  
+  <ASProtect description="加壳远程对象的配置">
+    <ASProtectPath value="E:\ASProtect.exe" description="加壳工具路径" />
+    <ASProtectSource value="d:\deliverfiles1" description="加壳文件存放路径" />
+    <ASProtectOutPut value="d:\deliverfiles2" description ="加壳文件完成后存放路径" />
+    <ASProtectTimeout value="5000" description="加壳超时时间，毫秒" />
+  </ASProtect>
+
+  <DeliveryFile description="传递文件对象的配置">
+    <DeliveryFileDir value="d:\deliverfiles" description="传送文件时服务器端存放的根路径" />
+  </DeliveryFile>
+  
+</RemoteObject>

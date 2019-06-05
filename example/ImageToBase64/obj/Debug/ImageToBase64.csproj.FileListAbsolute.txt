@@ -1,0 +1,9 @@
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\bin\Debug\ImageToBase64.exe
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\bin\Debug\ImageToBase64.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.csprojResolveAssemblyReference.cache
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.Form1.resources
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.Properties.Resources.resources
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.exe
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\obj\Debug\ImageToBase64.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\example\ImageToBase64\bin\Debug\ImageToBase64.exe.config

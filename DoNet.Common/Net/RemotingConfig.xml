@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<RemotingConfig>
+  
+  <!--服务配置-->
+  <ServerConfig>
+    <Name value="RemoteingServer" description="信道名称" />
+    <ChannelType value="Tcp" description="服务注册协议类型" />
+    <Port value="8081" description="远程代理端口" />
+  </ServerConfig>
+  
+  <!--需要注册的远程代理-->
+  <RegisterWellKnownServiceType>
+
+    <MenuServer Register="true">
+      <Path value="BASECOMMON.BASESERVERAPP.dll" description="对象文件的路径" />
+      <ClassName value="BASECOMMON.BASESERVERAPP.MenuServer" description="要注册对象的类全路径" />
+      <UriName value="MenuServer" description="要注册成URI的名称" />
+      <WellKnownObjectMode value="Singleton" description="为每个连接提供实例方式" />
+    </MenuServer>
+
+    <UserServer Register="true">
+      <Path value="BASECOMMON.BASESERVERAPP.dll" description="对象文件的路径" />
+      <ClassName value="BASECOMMON.BASESERVERAPP.UserServer" description="要注册对象的类全路径" />
+      <UriName value="UserServer" description="要注册成URI的名称" />
+      <WellKnownObjectMode value="Singleton" description="为每个连接提供实例方式" />
+    </UserServer>
+
+  </RegisterWellKnownServiceType>
+  
+</RemotingConfig>

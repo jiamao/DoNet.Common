@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript">
+        function run() {
+            try {
+                var r = eval(document.getElementById('txtscript').value);
+                document.getElementById('txtresult').value = r;
+            }
+            catch (e) {
+                document.getElementById('txtresult').value = e;
+            }
+        }
+    </script>
+</head>
+<body>
+<textarea id="txtscript" rows="2" cols="2" style="width:100%;height:200px;"></textarea>
+<button value="test" onclick="javascript:run();">test</button>
+<textarea id="txtresult" rows="2" cols="2" style="width:100%;height:200px;"></textarea>
+</body>
+</html>

@@ -1,0 +1,10 @@
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\bin\Release\JM.UpdateClient.exe.config
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\bin\Release\JM.UpdateClient.exe
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\bin\Release\JM.UpdateClient.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\bin\Release\JM.Update.dll
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\bin\Release\JM.Update.pdb
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\obj\Release\JM.UpdateClient.csprojResolveAssemblyReference.cache
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\obj\Release\JM.UpdateClient.Properties.Resources.resources
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\obj\Release\JM.UpdateClient.csproj.GenerateResource.Cache
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\obj\Release\JM.UpdateClient.exe
+D:\微云网盘\273389528\项目\DoNet.Common\update\JM.UpdateClient\obj\Release\JM.UpdateClient.pdb

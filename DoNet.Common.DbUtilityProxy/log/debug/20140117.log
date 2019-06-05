@@ -1,0 +1,11 @@
+﻿[15:20:40]{"MethodName":"ExecuteNonQuery","DBInfo":{"DBType":1,"ConnectionString":"server=localhost;database=dbname;user=root;password=123456;charset=utf8;"},"Sqls":["update tbname set a=a where id=xxx","insert tbname() values()"]}
+[15:20:49]{"MethodName":"ExecuteNonQuery","DBInfo":{"DBType":1,"ConnectionString":"server=localhost;database=dbname;user=root;password=123456;charset=utf8;"},"Sqls":["update tbname set a=a where id=xxx","insert tbname() values()"]}
+[15:21:11]{"MethodName":"ExecuteNonQuery","DBInfo":{"DBType":1,"ConnectionString":"server=localhost;database=dbname;user=root;password=123456;charset=utf8;"},"Sqls":["update tbname set a=a where id=xxx","insert tbname() values()"]}
+[15:21:33]{"MethodName":"ExecuteNonQuery","DBInfo":{"DBType":1,"ConnectionString":"server=localhost;database=dbname;user=root;password=123456;charset=utf8;"},"Sqls":["update tbname set a=a where id=xxx","insert tbname() values()"]}
+[15:22:00]{"MethodName":"ExecuteNonQuery","DB":{"DBType":1,"ConnectionString":"server=localhost;database=dbname;user=root;password=123456;charset=utf8;"},"Sqls":["update tbname set a=a where id=xxx","insert tbname() values()"]}
+[15:22:02]<?xml version="1.0"?>
+<DBInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DBType>MySql</DBType>
+  <ConnectionString>server=localhost;database=dbname;user=root;password=123456;charset=utf8;</ConnectionString>
+  <IsProxy>false</IsProxy>
+</DBInfo>
