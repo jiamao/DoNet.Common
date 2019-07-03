@@ -2,3 +2,5 @@ obj/Debug
 DoNet.Common/obj
 SharpSSH/obj
 */obj/
+example/ImageToBase64/obj/
+example/web/obj/
